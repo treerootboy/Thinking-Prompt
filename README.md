@@ -1,3 +1,4 @@
+# Fork From richards199999/Thinking-Claude
 # Thinking Claude
 
 Let Claude think comprehensively before responding!
